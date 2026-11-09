@@ -1,11 +1,11 @@
-langgraph
+streamlit
 langchain
+langchain-core
 langchain-groq
-python-dotenv
-
-langchain-community
-langchain-text-splitters
 langchain-huggingface
+langchain-community
+langgraph
 sentence-transformers
 faiss-cpu
 pypdf
+python-dotenv
